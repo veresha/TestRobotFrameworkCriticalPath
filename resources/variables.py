@@ -1,0 +1,7 @@
+URL = 'https://robotframework.org/'
+BROWSER = 'FireFox'
+DROPDOWN_MENU = 'class:flex middle px-small font-title type-uppercase line-height-body dropdown-button color-white'
+DOCS_LINK = 'https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html'
+BUTTON_EXAMPLE_RUN = 'class:theme flex middle bling'
+EXAMPLE_RUN_RESULTS = 'id:output'
+BUTTON_DOWNLOAD_EXAMPLE_LOG = 'class:stroke small flex mr-small middle'
