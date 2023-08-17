@@ -4,7 +4,7 @@ Resource    ../resources/imports.robot
 
 *** Test Cases ***
 Test path to documentation
-    [Documentation]    Test that from main page is possible to get robot framework documentation
+    [Documentation]    Test that from main page is possible to get robot framework documentation.
     [Setup]    Open browser and maximize    ${URL}    ${BROWSER}
     [Teardown]    close browser
 
