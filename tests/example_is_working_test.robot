@@ -4,7 +4,7 @@ Resource    ../resources/imports.robot
 
 *** Test Cases ***
 Example in getting started is working
-    [Documentation]    Test that example of robot framework in "Getting started"  is working.
+    [Documentation]    Test that example of robot framework in "Getting started" is working.
     [Setup]    Open browser and maximize    ${URL}    ${BROWSER}
     [Teardown]    close browser
 
